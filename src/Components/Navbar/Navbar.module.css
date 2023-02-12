@@ -1,0 +1,7 @@
+.linkColor{
+    color: white !important ;
+    font-weight: bold !important;
+}
+.linkColor:hover{
+    color: #1abc9c !important;
+}
